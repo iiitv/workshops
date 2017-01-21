@@ -5,5 +5,6 @@ List of workshops to be taken. See [Issues](https://github.com/iiitv/workshops/i
 
 | Title         | Audience          | Time                 | Conducted By                    |
 |---------------|-------------------|----------------------|---------------------------------|
-| Java          | 1st year          | 21-01-17 10:00-13:00 | @yashLadha, @saurabhnitnaware  |
+| Java          | 1st year          | 21-01-17 10:00-13:00 | @yashLadha, @saurabhnitnaware   |
+|               |                   |                      | @Prakash2403, @singhpratyush    |
 
