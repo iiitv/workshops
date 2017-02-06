@@ -5,5 +5,6 @@ List of workshops to be taken. See [Issues](https://github.com/iiitv/workshops/i
 
 | Title         | Audience          | Time                 |
 |---------------|-------------------|----------------------|
+| [Hello World](workshops/Hello-World.md) | 2nd year | Lost in History |
 | [Java](workshops/Java.md)       | 1st year          | 21-01-17 10:00-13:00 |
 | [GSoC](workshops/GSoC.md)       | All               | 03-02-17 16:40-18:00 |
